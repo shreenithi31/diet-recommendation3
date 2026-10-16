@@ -1,0 +1,82 @@
+name,slots,diet,allergens,serving,calories,protein_g,carbs_g,fat_g,fiber_g,sugar_g,sodium_mg,gi
+Oatmeal cooked in water,breakfast,vegan,,1 cup,154,5.4,27,2.6,4,1,9,low
+Idli,breakfast,vegan,,2 pieces,140,4,30,0.4,1.5,0.5,200,medium
+Plain dosa,breakfast,vegan,,1 medium,168,3.9,29,3.7,1.2,0.5,200,medium
+Vegetable poha,breakfast,vegan,nuts,1 cup,250,4.5,42,7,3,2,300,medium
+Vegetable upma,breakfast,vegan,gluten,1 cup,230,5,34,8,3,2,350,medium
+Scrambled eggs,breakfast|protein,egg,egg,2 eggs,182,12.2,2,13.7,0,1.4,340,low
+Vegetable omelette,breakfast|protein,egg,egg,2 eggs,190,13,3,14,1,2,350,low
+Peanut butter whole wheat toast,breakfast|snack,vegan,gluten;nuts,2 slices + 1 tbsp,260,11,28,13,5,4,320,medium
+Moong dal chilla,breakfast,vegan,,2 pieces,200,12,26,5,5,1,250,low
+Chia pudding with almond milk,breakfast,vegan,nuts,1 cup,200,6,20,10,10,5,100,low
+Paneer bhurji,breakfast|protein,veg,dairy,1 cup,250,16,6,18,2,3,380,low
+Vegetable sandwich,breakfast,veg,gluten;dairy,1 sandwich,250,9,38,7,5,6,520,medium
+Ragi porridge,breakfast,vegan,,1 cup,150,4,30,1.5,3,1,30,medium
+Greek yogurt plain,dairy|breakfast|snack,veg,dairy,170 g,100,17,6,0.7,0,5,60,low
+Low-fat milk,dairy,veg,dairy,1 cup,102,8,12,2.4,0,12,107,low
+Unsweetened soy milk,dairy,vegan,soy,1 cup,80,7,4,4,1,1,90,low
+Buttermilk (chaas),dairy|snack,veg,dairy,1 glass,60,3,5,2,0,4,250,low
+Grilled chicken breast,protein,nonveg,,100 g,165,31,0,3.6,0,0,74,low
+Chicken tikka,protein,nonveg,,150 g,230,35,3,8,1,1,450,low
+Chicken curry,protein,nonveg,,1 cup,240,26,6,12,1,3,600,low
+Baked salmon,protein,nonveg,fish,100 g,206,22,0,12,0,0,60,low
+Grilled tilapia,protein,nonveg,fish,150 g,192,39,0,4,0,0,90,low
+Garlic shrimp stir-fry,protein,nonveg,shellfish,150 g,180,27,3,6,0,0,500,low
+Boiled eggs,protein|snack,egg,egg,2 eggs,155,13,1.1,11,0,1.1,124,low
+Egg curry,protein,egg,egg,1 cup,280,16,8,20,2,4,550,low
+Stir-fried tofu,protein,vegan,soy,150 g,180,17,4,11,2,1,20,low
+Tempeh,protein,vegan,soy,100 g,192,20,8,11,5,0,9,low
+Soya chunks curry,protein,vegan,soy,1 cup,230,22,16,8,5,3,450,low
+Paneer tikka,protein,veg,dairy,100 g,250,16,7,18,1,3,400,low
+Dal tadka,protein,vegan,,1 cup,220,12,32,5,8,2,400,low
+Lentil soup,protein,vegan,,1 bowl,180,12,28,2,8,3,350,low
+Chickpea curry,protein,vegan,,1 cup,270,12,40,7,11,8,450,low
+Rajma curry,protein,vegan,,1 cup,245,14,42,3,12,3,350,low
+Sambar,protein,vegan,,1 cup,150,7,22,4,5,4,500,low
+Edamame,protein|snack,vegan,soy,1 cup,188,18,14,8,8,3,9,low
+Brown rice,carb,vegan,,1 cup,216,5,45,1.8,3.5,0.7,10,medium
+White rice,carb,vegan,,1 cup,205,4.3,45,0.4,0.6,0,2,high
+Whole wheat chapati,carb,vegan,gluten,2 pieces,200,7,40,3,5.5,1,200,medium
+Quinoa,carb,vegan,,1 cup,222,8,39,3.6,5,1.6,13,low
+Whole wheat pasta,carb,vegan,gluten,1 cup,174,7.5,37,0.8,6,0.8,4,medium
+Baked sweet potato,carb,vegan,,1 medium,112,2,26,0.1,3.9,5.4,72,medium
+Ragi roti,carb,vegan,,2 pieces,180,5,36,2,4,1,10,medium
+Jowar roti,carb,vegan,,2 pieces,190,6,40,1.5,5,1,10,medium
+Boiled potato,carb,vegan,,1 medium,161,4.3,37,0.2,3.8,1.7,17,high
+Whole wheat bread,carb,vegan,gluten,2 slices,160,8,28,2.5,4,4,300,medium
+Barley,carb,vegan,gluten,1 cup cooked,193,3.6,44,0.7,6,0.4,5,low
+Steamed broccoli,veg,vegan,,1 cup,55,3.7,11,0.6,5,2,64,low
+Mixed vegetable sabzi,veg,vegan,,1 cup,120,3,15,6,5,6,350,low
+Sauteed spinach (palak),veg,vegan,,1 cup,100,5,8,6,4,1,400,low
+Cucumber tomato salad,veg,vegan,,1 bowl,50,2,10,0.5,3,6,20,low
+Cauliflower curry (gobi),veg,vegan,,1 cup,130,4,14,7,5,5,380,low
+Okra stir-fry (bhindi),veg,vegan,,1 cup,130,3,12,8,4,3,300,low
+Carrot beetroot salad,veg,vegan,,1 bowl,70,2,16,0.3,4,10,80,low
+Green beans stir-fry,veg,vegan,,1 cup,100,3,12,5,4,3,250,low
+Roasted vegetable medley,veg,vegan,,1 cup,140,3,18,7,5,8,200,low
+Cabbage thoran,veg,vegan,,1 cup,110,3,12,6,4,5,300,low
+Garden salad with olive oil,veg,vegan,,1 bowl,100,2,8,7,3,4,60,low
+Mushroom saute,veg,vegan,,1 cup,90,5,8,5,2,3,250,low
+Apple,fruit,vegan,,1 medium,95,0.5,25,0.3,4.4,19,2,low
+Banana,fruit,vegan,,1 medium,105,1.3,27,0.4,3.1,14,1,medium
+Orange,fruit,vegan,,1 medium,62,1.2,15,0.2,3.1,12,0,low
+Papaya,fruit,vegan,,1 cup,62,0.7,16,0.4,2.5,11,12,medium
+Guava,fruit,vegan,,1 large,68,2.6,14,1,5.4,9,2,low
+Mixed berries,fruit,vegan,,1 cup,70,1,17,0.5,4,10,1,low
+Pomegranate arils,fruit,vegan,,1/2 cup,72,1.5,16,1,3.5,12,3,low
+Watermelon,fruit,vegan,,1.5 cups,68,1.4,17,0.3,0.9,14,3,high
+Mango,fruit,vegan,,1 cup,100,1.4,25,0.6,2.6,23,2,medium
+Grapes,fruit,vegan,,1 cup,104,1.1,27,0.2,1.4,23,3,medium
+Avocado,fruit|snack,vegan,,1/2 fruit,160,2,9,15,7,0.7,7,low
+Almonds,snack,vegan,nuts,28 g,164,6,6,14,3.5,1.2,0,low
+Walnuts,snack,vegan,nuts,28 g,185,4.3,3.9,18.5,1.9,0.7,1,low
+Roasted peanuts,snack,vegan,nuts,28 g,166,7,6,14,2.4,1.2,2,low
+Roasted chickpeas,snack,vegan,,30 g,120,6,20,2,5,3,150,low
+Hummus with carrot sticks,snack,vegan,sesame,1 serving,150,5,16,8,5,4,250,low
+Roasted makhana,snack,vegan,,1 cup,100,3,20,0.5,1,0,5,low
+Boiled sweet corn,snack,vegan,,1 cup,130,4.5,29,1.8,3.6,6,20,medium
+Low-fat string cheese,snack,veg,dairy,1 stick,80,7,1,5,0,0,200,low
+Chickpea sundal,snack,vegan,,1/2 cup,140,7,22,3,6,3,200,low
+Whey protein shake,snack|dairy,veg,dairy,1 scoop in water,120,24,3,1.5,0,2,130,low
+Sprouts salad,snack|veg,vegan,,1 cup,150,9,24,2,6,3,200,low
+Boiled egg,snack,egg,egg,1 egg,78,6.3,0.6,5.3,0,0.6,62,low
